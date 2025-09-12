@@ -1,2 +1,3 @@
 # hello-github
-First Repo
+
+My first GitHub repository! Learning the basics step by step.
